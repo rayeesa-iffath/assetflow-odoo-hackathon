@@ -1,3 +1,4 @@
+
 <div align="center">
 
 ```
@@ -301,3 +302,5 @@ For questions, feedback, or collaboration opportunities, feel free to reach out 
 **Made with ❤️ by Team ZYPHER for Odoo Hackathon 2026**
 
 </div>
+=======
+
